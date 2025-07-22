@@ -1,5 +1,5 @@
 ---
-title: "yeondu_blog"
+title: "Welcome to yeondu_blog"
 listing:
   contents: posts
   sort: "date desc"
@@ -8,7 +8,5 @@ listing:
   sort-ui: true
   filter-ui: true
 page-layout: full
-title-block-banner: "#003366"
+title-block-banner: True
 ---
-
-

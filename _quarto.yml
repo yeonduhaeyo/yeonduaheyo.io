@@ -3,7 +3,7 @@ project:
   output-dir: docs # 추가
 
 website:
-  title: "yeondu_blog>__<"
+  title: "yeondu_blog"
   navbar:
     right:
       - about.qmd
@@ -12,6 +12,6 @@ website:
 format:
   html:
     theme:
-      - lux
+      - litera
       - brand
     css: styles.css

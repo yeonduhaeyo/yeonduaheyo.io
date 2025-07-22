@@ -1,0 +1,14 @@
+---
+title: "self-introduction"
+author: "yeonduhaeyo"
+date: now
+categories: [news]
+image: "https://item.kakaocdn.net/do/9dc14126ee3e2d16b00d0a503b592cbb6fb33a4b4cf43b6605fc7a1e262f0845"
+---
+
+안녕하세요
+제 이름은 황연주입니다.
+나이는 1999년생 만 25세입니다.
+고향은 부산입니다.
+
+잘 부탁드립니다.

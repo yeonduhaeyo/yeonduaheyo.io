@@ -7,6 +7,27 @@
     "text": "안녕하세요 ㅎㅎ"
   },
   {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to yeondu_blog",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nintro\n\n\n\n\n\n\n\n\nJul 22, 2025\n\n\nyeonduhaeyo\n\n\n\n\n\n\n\n\n\n\n\n\nself-introduction\n\n\n\n\n\n\n\n\nJul 22, 2025\n\n\nyeonduhaeyo\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\nJul 22, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog2\n\n\n\n\n\n\n\n\nJul 22, 2025\n\n\nyeonduhaeyo\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "yeonduhaeyo",
+    "section": "",
+    "text": "안녕하세요 연두 블로그입니다."
+  },
+  {
     "objectID": "posts/intro/index.html",
     "href": "posts/intro/index.html",
     "title": "intro",
@@ -14,24 +35,10 @@
     "text": "안녕하세요 첫 블로그 게시글입니다."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "yeonduhaeyo",
+    "objectID": "posts/self-introduction/index.html",
+    "href": "posts/self-introduction/index.html",
+    "title": "self-introduction",
     "section": "",
-    "text": "연두 블로그입니다."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "yeondu_blog",
-    "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nintro\n\n\n\n\n\n\n\n\nJul 22, 2025\n\n\nyeonduhaeyo\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\nJul 22, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog2\n\n\n\n\n\n\n\n\nJul 22, 2025\n\n\nyeonduhaeyo\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
+    "text": "안녕하세요 제 이름은 황연주입니다. 나이는 1999년생 만 25세입니다. 고향은 부산입니다.\n잘 부탁드립니다."
   }
 ]
