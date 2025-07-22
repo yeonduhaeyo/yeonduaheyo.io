@@ -1,0 +1,16 @@
+---
+title: "yeonduhaeyo"
+image: https://i.namu.wiki/i/jgGE-uDP_NYVfCxQ54waFpvN1nubN5Ue84MSv5e_hdcNfg81Z7WgvY9BHve7a9RVIxP2Dbr68dEzHUPslluvEQ.webp
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com/yeonduhaeyo
+
+---
+
+연두 블로그입니다.

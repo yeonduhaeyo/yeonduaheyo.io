@@ -1,0 +1,9 @@
+---
+title: "intro"
+author: "yeonduhaeyo"
+date: now
+categories: [news]
+image: "https://item.kakaocdn.net/do/09d3d5a5833fcc8025111fdbf44cf37f339e41ce89b663315d96faecd7cfd11b"
+---
+
+안녕하세요 첫 블로그 게시글입니다.

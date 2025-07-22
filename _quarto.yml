@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs # 추가
+
+website:
+  title: "yeondu_blog>__<"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/yenduhaeyo
+format:
+  html:
+    theme:
+      - lux
+      - brand
+    css: styles.css

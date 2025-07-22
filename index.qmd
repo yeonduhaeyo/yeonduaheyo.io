@@ -1,0 +1,14 @@
+---
+title: "yeondu_blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: false
+  sort-ui: true
+  filter-ui: true
+page-layout: full
+title-block-banner: "#003366"
+---
+
+

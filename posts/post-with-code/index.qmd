@@ -1,0 +1,9 @@
+---
+title: "Post With Code"
+author: "Harlow Malloc"
+date: "2025-07-22"
+categories: [news, code, analysis]
+image: "https://item.kakaocdn.net/do/f54d975d70c2916c5705a0919f193a547154249a3890514a43687a85e6b6cc82"
+---
+
+This is a post with executable code.
